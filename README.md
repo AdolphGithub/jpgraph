@@ -21,7 +21,7 @@ PHP versions support: from 5.5 to **8.2**. [Original notes](https://jpgraph.net/
 This package is a helper to load original JpGraph library after declaring it as your dependency in composer.json:
 
 ```
-composer require mitoteam/jpgraph
+composer require qgsafe/jpgraph
 ```
 
 Then you can load library from anywhere in your code:
