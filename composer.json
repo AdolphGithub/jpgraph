@@ -1,5 +1,5 @@
 {
-  "name": "mitoteam/jpgraph",
+  "name": "qgsafe/jpgraph",
   "type": "library",
   "description": "JpGraph library composer package with PHP 8.2 support",
   "keywords": ["jpgraph"],
